@@ -1,82 +1,53 @@
-# Richard Ng Constantine
+# Hi, I'm Richard 👋
 
-AI Product Manager focused on enterprise AI systems, LLM evaluation, data platforms, and agentic product workflows.
+I build AI product systems that help teams turn data, workflows, and decisions into useful AI products.
 
-I build practical AI product systems that connect product strategy, data infrastructure, evaluation, and execution. My focus is not “AI demos”; it is how AI products become reliable, measurable, and useful in real business workflows.
+Most of my work sits across AI Product Management, enterprise data platforms, LLM evals, agentic workflows, and product operating systems.
 
-## What I’m building toward
+I’m currently building practical AI PM projects that show how to move from idea → prototype → evals → launch-ready product.
 
-I am building a portfolio around three AI PM themes:
+## What I work on
 
-* Enterprise AI systems
-* LLM evals and quality gates
-* Agentic workflows for product teams
+* 🧠 AI Product Management: PRDs, roadmaps, launch gates, product strategy
+* 🧪 LLM evals: quality rubrics, failure modes, human review, test sets
+* 🏢 Enterprise AI: internal tools, workflow automation, governance, trust
+* 📊 Data platforms: Customer 360, CDP, CRM, semantic layer, analytics
+* 🤖 Agentic workflows: PM copilots, AI assistants, multi-step product systems
+* 🛠️ Build workflows: Claude Code, Codex, Gemini CLI, GitHub, Python, SQL
 
-## Featured work
+## Featured projects
 
-### Product Management OS
+* 🧠 **Product Management OS**
+  AI PM operating system for PRDs, evals, product reviews, stakeholder updates, and daily execution.
 
-A personal AI PM operating system for repeatable product workflows, PRDs, research synthesis, stakeholder updates, and AI product quality gates.
+* 🧪 **AI PM Evals Lab**
+  Practical eval templates, rubrics, golden sets, and launch gates for AI product teams.
 
-Focus areas:
+* 💰 **Finance Bot**
+  AI finance assistant prototype for structured analysis, reasoning, and human review.
 
-* Multi-skill PM workflow architecture
-* Offline eval suites
-* PRD and product review gates
-* Harness-neutral setup for Claude Code, Codex, and Gemini CLI
+* 🔍 **LLM Comparator**
+  Exploration of side-by-side LLM response comparison and evaluation workflows.
 
-### Finance Bot
+## About me
 
-An AI assistant experiment for finance-related analysis and workflow automation.
+* 🎯 Product Manager focused on AI systems, data products, and enterprise workflows
+* 📍 Based in Singapore
+* 🧩 Background in data platforms, martech architecture, CRM/CDP, and analytics
+* 🚀 Building toward AI PM roles at frontier AI companies
+* ✍️ I use GitHub to show product thinking, not just code
 
-Focus areas:
+## How I think about AI products
 
-* AI assistant UX
-* Structured financial reasoning
-* Prompt design
-* Human review and quality control
+```text
+Problem → Workflow → Data → Model → Eval → Launch → Learning
+```
 
-### LLM Comparator
-
-A fork and exploration of LLM response comparison workflows.
-
-Focus areas:
-
-* Side-by-side LLM evaluation
-* Response quality analysis
-* Evaluation tooling for product teams
-
-## Product thinking
-
-I care about the full AI product loop:
-
-1. Define the user problem
-2. Design the workflow
-3. Choose the model/tooling approach
-4. Create evals and quality gates
-5. Measure adoption, trust, latency, and failure modes
-6. Iterate based on evidence
-
-## My AI PM operating principles
-
-* Build before claiming expertise
-* Measure quality before scaling
-* Treat evals as product infrastructure
-* Design for human trust, not just automation
-* Make trade-offs explicit
-* Keep enterprise risk, privacy, and governance in scope
-
-## Current portfolio direction
-
-I am deepening my portfolio in:
-
-* AI eval systems
-* Enterprise AI workflows
-* Data product infrastructure
-* Agentic PM systems
-* Product artifacts for AI launch readiness
+AI products should not stop at demos.
+They need clear user problems, quality gates, trusted workflows, and measurable business impact.
 
 ## Connect
 
-* LinkedIn: linkedin.com/in/richieriri
-* X: @richieririeth
+* LinkedIn: [linkedin.com/in/richieriri](https://www.linkedin.com/in/richieriri)
+* X: [@richieririeth](https://x.com/richieririeth)
+* GitHub: [github.com/richardan01](https://github.com/richardan01)
