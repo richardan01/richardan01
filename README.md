@@ -19,13 +19,10 @@ I’m currently building practical AI PM projects that show how to move from ide
 
 * 🧠 **Product Management OS**
   AI PM operating system for PRDs, evals, product reviews, stakeholder updates, and daily execution.
-
 * 🧪 **AI PM Evals Lab**
   Practical eval templates, rubrics, golden sets, and launch gates for AI product teams.
-
 * 💰 **Finance Bot**
   AI finance assistant prototype for structured analysis, reasoning, and human review.
-
 * 🔍 **LLM Comparator**
   Exploration of side-by-side LLM response comparison and evaluation workflows.
 
