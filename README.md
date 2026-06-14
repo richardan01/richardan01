@@ -1,50 +1,50 @@
 # Hi, I'm Richard 👋
 
-I build AI product systems that help teams turn data, workflows, and decisions into useful AI products.
+I build eval-driven AI product systems — from PRDs and workflows to demos, launch gates, and LLM evaluation loops.
 
 Most of my work sits across AI Product Management, enterprise data platforms, LLM evals, agentic workflows, and product operating systems.
 
-I’m currently building practical AI PM projects that show how to move from idea → prototype → evals → launch-ready product.
+I use GitHub to show product thinking, not just code.
 
-## What I work on
+## 🚀 Featured work
 
-* 🧠 AI Product Management: PRDs, roadmaps, launch gates, product strategy
-* 🧪 LLM evals: quality rubrics, failure modes, human review, test sets
-* 🏢 Enterprise AI: internal tools, workflow automation, governance, trust
-* 📊 Data platforms: Customer 360, CDP, CRM, semantic layer, analytics
-* 🤖 Agentic workflows: PM copilots, AI assistants, multi-step product systems
-* 🛠️ Build workflows: Claude Code, Codex, Gemini CLI, GitHub, Python, SQL
-
-## Featured projects
-
-* 🧠 **Product Management OS**
+* 🧠 [Product-Management_OS](https://github.com/richardan01/Product-Management_OS)
   AI PM operating system for PRDs, evals, product reviews, stakeholder updates, and daily execution.
-* 🧪 **AI PM Evals Lab**
-  Practical eval templates, rubrics, golden sets, and launch gates for AI product teams.
-* 💰 **Finance Bot**
-  AI finance assistant prototype for structured analysis, reasoning, and human review.
-* 🔍 **LLM Comparator**
-  Exploration of side-by-side LLM response comparison and evaluation workflows.
 
-## About me
+* 💰 [Finance-bot](https://github.com/richardan01/Finance-bot)
+  AI finance assistant prototype for structured analysis, reasoning, charting, and human review.
 
-* 🎯 Product Manager focused on AI systems, data products, and enterprise workflows
-* 📍 Based in Singapore
-* 🧩 Background in data platforms, martech architecture, CRM/CDP, and analytics
-* 🚀 Building toward AI PM roles at frontier AI companies
-* ✍️ I use GitHub to show product thinking, not just code
+* 🧑‍💻 [aboutrichie](https://github.com/richardan01/aboutrichie)
+  Interactive AI PM portfolio and personal product profile.
 
-## How I think about AI products
+* 🔍 [llm-comparator](https://github.com/richardan01/llm-comparator)
+  Side-by-side LLM response comparison and evaluation workflow exploration.
+
+## 🧠 What I work on
+
+* 🧪 LLM evals, rubrics, failure modes, and quality gates
+* 🏢 Enterprise AI workflows, governance, and trust
+* 📊 Data platforms, Customer 360, CDP, CRM, and semantic layers
+* 🤖 Agentic workflows for product teams
+* 📝 PRDs, launch reviews, product strategy, and stakeholder updates
+* 🛠️ AI builder workflows using Claude Code, Codex, Gemini, GitHub, Python, and SQL
+
+## 📍 How I think about AI products
 
 ```text
 Problem → Workflow → Data → Model → Eval → Launch → Learning
 ```
 
 AI products should not stop at demos.
-They need clear user problems, quality gates, trusted workflows, and measurable business impact.
 
-## Connect
+They need clear user problems, trusted workflows, quality gates, human review, and measurable business impact.
 
-* LinkedIn: [linkedin.com/in/richieriri](https://www.linkedin.com/in/richieriri)
-* X: [@richieririeth](https://x.com/richieririeth)
-* GitHub: [github.com/richardan01](https://github.com/richardan01)
+## 🎯 Current focus
+
+I’m building a public AI PM portfolio around:
+* 🧠 Product Management OS
+* 🧪 LLM evaluation systems
+* 🏢 Enterprise AI workflows
+* 📊 Data platform to AI product loops
+* ✅ Launch readiness and quality gates
+
