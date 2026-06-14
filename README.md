@@ -2,7 +2,6 @@
 
 I build eval-driven AI product systems — from PRDs and workflows to demos, launch gates, and LLM evaluation loops.
 Most of my work sits across AI Product Management, enterprise data platforms, LLM evals, agentic workflows, and product operating systems.
-I use GitHub to show product thinking, not just code.
 
 ## 🚀 Featured work
 * 🧠 [Product-Management_OS](https://github.com/richardan01/Product-Management_OS)
