@@ -10,13 +10,10 @@ Most of my work sits across AI Product Management, enterprise data platforms, LL
 
 * 🧠 [Product-Management_OS](https://github.com/richardan01/Product-Management_OS)
   AI PM operating system for PRDs, evals, product reviews, stakeholder updates, and daily execution.
-
 * 💰 [Finance-bot](https://github.com/richardan01/Finance-bot)
   AI finance assistant prototype for structured analysis, reasoning, charting, human review, and eval workflows.
-
-* 🧑‍💻 [aboutrichie](https://github.com/richardan01/aboutrichie) · [Live site](https://aboutrichie.vercel.app)
+* 🧑‍💻 [aboutrichie](https://github.com/richardan01/aboutrichie) - [Live site](https://aboutrichie.vercel.app)
   Interactive AI PM portfolio and personal product profile.
-
 * 🔍 [llm-comparator](https://github.com/richardan01/llm-comparator)
   Side-by-side LLM response comparison and evaluation workflow exploration.
 
