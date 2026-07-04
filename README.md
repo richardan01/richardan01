@@ -2,14 +2,14 @@
 
 I build eval-driven AI product systems — from PRDs and workflows to demos, launch gates, and LLM evaluation loops.
 
-Most of my work sits across AI Product Management, enterprise data platforms, LLM evals, agentic workflows, and product operating systems.
+Most of my work sits across AI Product Management, enterprise data platforms, LLM evals, agentic workflows, and practical product systems.
 
 🌐 **Portfolio:** [aboutrichie.vercel.app](https://aboutrichie.vercel.app)
 
 ## 🚀 Featured work
 
-* 🧠 [Product-Management_OS](https://github.com/richardan01/Product-Management_OS)
-  AI PM operating system for PRDs, evals, product reviews, stakeholder updates, and daily execution.
+* 🧠 [AI-Product-Lab](https://github.com/richardan01/AI-Product-Lab)
+  Public proof-of-work lab for AI Product Management, evals, agents, RegEval, and measurable AI product artifacts.
 * 💰 [Finance-bot](https://github.com/richardan01/Finance-bot)
   AI finance assistant prototype for structured analysis, reasoning, charting, human review, and eval workflows.
 * 🧑‍💻 [aboutrichie](https://github.com/richardan01/aboutrichie) - [Live site](https://aboutrichie.vercel.app)
@@ -39,7 +39,7 @@ They need clear user problems, trusted workflows, quality gates, human review, a
 
 I’m building a public AI PM portfolio around:
 
-* 🧠 Product Management OS
+* 🧠 AI Product Lab proof-of-work artifacts
 * 🧪 LLM evaluation systems
 * 🏢 Enterprise AI workflows
 * 📊 Data platform to AI product loops
