@@ -8,7 +8,7 @@ I work across product discovery, system design, evaluation, and launch judgment.
 
 [Portfolio](https://aboutrichie.vercel.app) · [LinkedIn](https://www.linkedin.com/in/richieriri/) · [Email](mailto:richardconstantine67@gmail.com)
 
-## Featured projects
+## 🚀 Featured projects
 
 ### 🧪 [Evalxiety — evidence before release](https://github.com/richardan01/evalxiety)
 
@@ -36,7 +36,7 @@ A finance-analysis assistant **prototype** exploring structured answers, chartin
 
 [Explore Finance Bot →](https://github.com/richardan01/Finance-bot)
 
-## My product approach
+## 🧭 My product approach
 
 ```text
 Understand the user problem
@@ -54,7 +54,7 @@ Observe outcomes and improve
 
 I try to distinguish **what the product does**, **what experiments show**, and **what remains unproven**. A good demo is a starting point; it is not a reliability claim.
 
-## What I'm building toward
+## 🎯 What I'm building toward
 
 My focus is **human-data and evaluation platforms for frontier AI**—systems that help researchers, engineers, and product teams collect useful judgments and translate them into measurable improvements.
 
@@ -69,4 +69,4 @@ These are focus areas and planned improvements, **not claims that I've shipped a
 
 ---
 
-**I'm interested in connecting with teams working on enterprise AI, agent reliability, evaluation infrastructure, and human-data quality.** [Connect on LinkedIn](https://www.linkedin.com/in/richieriri/) or explore my [portfolio](https://aboutrichie.vercel.app).
+🤝 **I'm interested in connecting with teams working on enterprise AI, agent reliability, evaluation infrastructure, and human-data quality.** [Connect on LinkedIn](https://www.linkedin.com/in/richieriri/) or explore my [portfolio](https://aboutrichie.vercel.app).
